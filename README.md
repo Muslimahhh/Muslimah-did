@@ -155,24 +155,24 @@ The sample design has 4, but the number you include is up to you.
 ```javascript
 const projectList = [
   {
-    title: "10 Things to know about Azure Static Web Apps 🎉",
-    description: "Collaboration to create a beginner friendly....",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Planner App",
+    description: "A planner app built with React Framework",
+    url: "https://planner-app-sigma.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
-    description: "Contributed sketch note imagery to accompany...",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "To-do App",
+    description: "A todo App built with Nodejs",
+    url: "https://node-todo-gules.vercel.app/",
   },
   {
-    title: "My Resume Site",
-    description: "Created from Microsoft's resume workshop...",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Stopwatch App",
+    description: "A stopwatch web app built uisng React Framework",
+    url: "https://vercel.com/muslimahhh/stopwatch-app",
   },
   {
-    title: "GitHub Codespaces and GitHub.dev",
-    description: "Video interview to explain when to use GitHub.dev...",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Kanban App",
+    description: "A kanban app buillt using react framework",
+    url: "https://kanban-app-nine-sigma.vercel.app/",
   },
 ];
 ```
